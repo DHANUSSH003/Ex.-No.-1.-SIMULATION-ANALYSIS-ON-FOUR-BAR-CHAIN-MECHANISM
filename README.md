@@ -53,7 +53,7 @@
 
 
 ## Output:
-![Screenshot 2025-01-02 141153](https://github.com/user-attachments/assets/14b7fdca-4aa7-4661-bc5c-3f9a241cc03f)
+![Screenshot 2025-01-02 141447](https://github.com/user-attachments/assets/736774f2-209c-430d-a1f9-1384a4f87f07)
 ![Screenshot 2025-01-02 141205](https://github.com/user-attachments/assets/7d0c9c7c-0242-44e2-87af-9df72fde3c8b)
 
 
